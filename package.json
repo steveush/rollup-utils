@@ -1,7 +1,7 @@
 {
   "name": "@steveush/rollup-utils",
   "version": "0.0.1",
-  "description": "Rollup utility methods and plugins for simple builds.",
+  "description": "Rollup utility classes, methods and plugins for simple builds.",
   "type": "module",
   "main": "./lib/cjs/index.cjs",
   "module": "./lib/es/index.js",
