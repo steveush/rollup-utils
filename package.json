@@ -1,6 +1,6 @@
 {
   "name": "@steveush/rollup-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Rollup utility classes, methods and plugins for simple builds.",
   "type": "module",
   "main": "./lib/cjs/index.cjs",
@@ -25,8 +25,8 @@
     "internal:build": "rollup --config .internal/rollup.config.js --environment BUILD:develop"
   },
   "files": [
-    "./lib/*",
-    "./types/*"
+    "./lib/**/*",
+    "./types/**/*"
   ],
   "repository": {
     "type": "git",

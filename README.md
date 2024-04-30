@@ -114,6 +114,7 @@ _**See**_
 
 ## Changelog
 
-| Version | Description     |
-|---------|-----------------|
-| 0.0.1   | Initial release |
+| Version   | Description                  |
+|-----------|------------------------------|
+| 0.0.1     | Initial release              |
+| 0.0.2     | Fix package.json files issue |
